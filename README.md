@@ -2,7 +2,7 @@
 
 ## Intro
 
-Meeting materials for IDRNG in IRTF125.
+Meeting materials for IDRNG in IETF125.
 
 Mailing List: [idrng@irtf.org](mailto:idrng@irtf.org). Subscribe the list at <https://mailman3.irtf.org/mailman3/lists/idrng.irtf.org/>
 
