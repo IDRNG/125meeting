@@ -4,9 +4,11 @@
 
 Meeting materials for IDRNG in IETF125.
 
-Mailing List: [idrng@irtf.org](mailto:idrng@irtf.org). Subscribe the list at <https://mailman3.irtf.org/mailman3/lists/idrng.irtf.org/>
+Mailing List: [idrng@irtf.org](mailto:idrng@irtf.org). Subscribe the list at <https://mailman3.irtf.org/mailman3/lists/idrng.irtf.org/>.
 
-Draft charter: <https://github.com/IDRNG/IDRNG-Charter>
+Draft charter: <https://github.com/IDRNG/IDRNG-Charter>.
+
+Some related materials for IDRNG are at [IDRNG/IDRNG-Related-Materials: Materials for IDRNG](https://github.com/IDRNG/IDRNG-Related-Materials)
 
 ## Relevent I-Ds
 
