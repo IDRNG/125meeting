@@ -8,7 +8,7 @@ Mailing List: [idrng@irtf.org](mailto:idrng@irtf.org). Subscribe the list at <ht
 
 Draft charter: <https://github.com/IDRNG/IDRNG-Charter>.
 
-Some related materials for IDRNG are at [IDRNG/IDRNG-Related-Materials: Materials for IDRNG](https://github.com/IDRNG/IDRNG-Related-Materials)
+Some related materials for IDRNG are at <https://github.com/IDRNG/IDRNG-Related-Materials>.
 
 ## Relevent I-Ds
 
