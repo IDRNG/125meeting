@@ -18,7 +18,7 @@ Some **related materials** for IDRNG are at <https://github.com/IDRNG/IDRNG-Rela
 
 ## Agenda
 
-- 10:00-10:05 Host: 5 mins
+- 10:00-10:05 Host (5 mins)
 - 10:05-10:25 Global ROV Audit and Triangulation Tool (Terry Sweetser - APNIC - 20 mins)
 - 10:25-10:45 The MANRS Development Process. (Di Ma - ZDNS - 20 mins)
 - 10:45-11:05 When RPKI Meets Reality: Understanding the causes and risks of RPKI-Invalid (Weitong Li - Virginia Tech - 20 mins)
