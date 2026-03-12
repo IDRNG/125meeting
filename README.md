@@ -2,17 +2,32 @@
 
 ## Intro
 
-Meeting materials for IDRNG in IETF125.
+Meeting materials' repo for IDRNG in IETF 125, Shenzhen.
 
-- Time: Wednesday, March 18, 2026 10:00-12:00 ( Asia/Shanghai UTC+8)
-- Venue: Jiangsu, Level 3 [check the map](https://datatracker.ietf.org/meeting/125/floor-plan?room=jiangsu)
+- **Date/Time**: Wednesday, March 18, 2026 10:00-12:00 ( Asia/Shanghai UTC+8)
+- **Venue**: Jiangsu, Level 3 [check the map](https://datatracker.ietf.org/meeting/125/floor-plan?room=jiangsu)
 
-Mailing List: [idrng@irtf.org](mailto:idrng@irtf.org). Subscribe the list at <https://mailman3.irtf.org/mailman3/lists/idrng.irtf.org/>.
 
-Draft charter: <https://github.com/IDRNG/IDRNG-Charter>.
+**Mailing List**: [idrng@irtf.org](mailto:idrng@irtf.org). Subscribe the list at <https://mailman3.irtf.org/mailman3/lists/idrng.irtf.org/>.
 
-Some related materials for IDRNG are at <https://github.com/IDRNG/IDRNG-Related-Materials>.
+## About
 
-## Relevent I-Ds
+**Draft charter**: <https://github.com/IDRNG/IDRNG-Charter>.
 
-TBD.
+Some **related materials** for IDRNG are at <https://github.com/IDRNG/IDRNG-Related-Materials>.
+
+## Agenda
+
+- 10:00-10:05 Host: 5 mins
+- 10:05-10:25 Global ROV Audit and Triangulation Tool (Terry Sweetser - APNIC - 20 mins)
+- 10:25-10:45 The MANRS Development Process. (Di Ma - ZDNS - 20 mins)
+- 10:45-11:05 When RPKI Meets Reality: Understanding the causes and risks of RPKI-Invalid (Weitong Li - Virginia Tech - 20 mins)
+- 11:05-11:25 The Routing Deadlock: Challenges We Can No Longer Ignore. (Cuicui Wang - China Unicom - 20 mins)
+- 11:25-11:55 QA and Discussions (30 mins)
+- 11:55-12:00 Next Steps (5 mins)
+
+## Links
+
+- Remote Attendance Link: <https://ietf.webex.com/meet/sidemeetings2>
+- Pointer to IETF Sidemeetings Page: <https://sidemeetings.ietf.org/>
+- Meeting Notes (Wait for the meeting): <https://docs.google.com/document/d/e/2PACX-1vTCv-ACbD2g8xeyWVB7wokJNGpinkAaC9MK2eUl6kJywwKOeQ8FtZTsoFFzTTdWHPEnmxxg5eAfmKnW/pub>
