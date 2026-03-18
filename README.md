@@ -4,6 +4,8 @@
 
 Meeting materials' repo for IDRNG in IETF 125, Shenzhen.
 
+**Slides have been uploaded to [slides](./slides/).**
+
 - **Date/Time**: Wednesday, March 18, 2026 10:00-12:00 ( Asia/Shanghai UTC+8)
 - **Venue**: Jiangsu, Level 3 [check the map](https://datatracker.ietf.org/meeting/125/floor-plan?room=jiangsu)
 
@@ -25,6 +27,9 @@ Some **related materials** for IDRNG are at <https://github.com/IDRNG/IDRNG-Rela
 - 11:05-11:25 The Routing Deadlock: Challenges We Can No Longer Ignore. (Cuicui Wang - China Unicom - 20 mins)
 - 11:25-11:55 QA and Discussions (30 mins)
 - 11:55-12:00 Next Steps (5 mins)
+
+There is small chanages to the agenda at the meeting.
+- Sue also shares us with Reducing Time to BGP Changes. (Susan Hares)
 
 ## Links
 
