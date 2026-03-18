@@ -29,7 +29,7 @@ Some **related materials** for IDRNG are at <https://github.com/IDRNG/IDRNG-Rela
 - 11:55-12:00 Next Steps (5 mins)
 
 There is small chanages to the agenda at the meeting.
-- Sue also shares us with Reducing Time to BGP Changes. (Susan Hares)
+- Susan Hares also shares us with Reducing Time to BGP Changes.
 
 ## Links
 
