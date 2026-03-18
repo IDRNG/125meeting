@@ -30,4 +30,4 @@ Some **related materials** for IDRNG are at <https://github.com/IDRNG/IDRNG-Rela
 
 - Remote Attendance Link: <https://ietf.webex.com/meet/sidemeetings2>
 - Pointer to IETF Sidemeetings Page: <https://sidemeetings.ietf.org/>
-- Meeting Notes (Wait for the meeting): <https://docs.google.com/document/d/e/2PACX-1vTCv-ACbD2g8xeyWVB7wokJNGpinkAaC9MK2eUl6kJywwKOeQ8FtZTsoFFzTTdWHPEnmxxg5eAfmKnW/pub>
+- Meeting Notes (Wait for the meeting): <https://docs.google.com/document/d/165IUdggXiApwO6pJA50fPoc-_P1ee0uKP1CF-DfM66A/edit?usp=sharing>
