@@ -35,4 +35,6 @@ There is small chanages to the agenda at the meeting.
 
 - Remote Attendance Link: <https://ietf.webex.com/meet/sidemeetings2>
 - Pointer to IETF Sidemeetings Page: <https://sidemeetings.ietf.org/>
-- Meeting Notes (Wait for the meeting): <https://docs.google.com/document/d/165IUdggXiApwO6pJA50fPoc-_P1ee0uKP1CF-DfM66A/edit?usp=sharing>
+- Meeting Notes: 
+  - Collaborative version with [Google docs](https://docs.google.com/document/d/165IUdggXiApwO6pJA50fPoc-_P1ee0uKP1CF-DfM66A/edit?usp=sharing)
+  - Local version of [minutes](./minutes.md)
