@@ -21,15 +21,14 @@ Some **related materials** for IDRNG are at <https://github.com/IDRNG/IDRNG-Rela
 ## Agenda
 
 - 10:00-10:05 Host (5 mins)
-- 10:05-10:25 Global ROV Audit and Triangulation Tool (Terry Sweetser - APNIC - 20 mins)
-- 10:25-10:45 The MANRS Development Process. (Di Ma - MANRS Steering Committee Member - 20 mins)
-- 10:45-11:05 When RPKI Meets Reality: Understanding the causes and risks of RPKI-Invalid (Weitong Li - Virginia Tech - 20 mins)
-- 11:05-11:25 The Routing Deadlock: Challenges We Can No Longer Ignore. (Cuicui Wang - China Unicom - 20 mins)
-- 11:25-11:55 QA and Discussions (30 mins)
+- Global ROV Audit and Triangulation Tool (Terry Sweetser - APNIC - 20 mins)
+    - Canceled for some reason.
+- 10:05-10:15 The MANRS Development Process. (Di Ma - MANRS Steering Committee Member - 20 mins)
+- 10:15-10:35 When RPKI Meets Reality: Understanding the causes and risks of RPKI-Invalid (Weitong Li - Virginia Tech - 20 mins)
+- 10:35-10:40 Reducing Time to BGP Changes (Susan Hares, 5 mins)
+- 10:40-11:10 The Routing Deadlock: Challenges We Can No Longer Ignore. (Cuicui Wang - China Unicom - 20 mins)
+- 11:10-11:35 QA and Discussions (30 mins)
 - 11:55-12:00 Next Steps (5 mins)
-
-There is small chanages to the agenda at the meeting.
-- Susan Hares also shares us with Reducing Time to BGP Changes.
 
 ## Links
 
